@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<bmtcustomdata><namespace name="visuals"><object name="[]"><property name="BMTFW_Layout_Version">long:14</property><property name="BMTFW_Layout"><![CDATA[string:[Database View].[PL_ITEM_PRDHA]
+	dx=163,208
+	expanded=t
+	parent=Database View
+	x=220,57
+[Database View].[WUACPLV]
+	dx=122,208
+	expanded=t
+	parent=Database View
+	x=421,54
+[Database View]
+	view=0,0
+	zoom=1.000000
+[Consolidation View].[Security Table]
+	dx=205,208
+	expanded=t
+	parent=Consolidation View
+	x=440,57
+[Consolidation View]
+	view=0,0
+	zoom=1.000000
+[].[packages].[WEEE PLIW IBM Ireland]
+	c=d8a77d
+	dx=110,37
+	expanded=t
+	parent=Packages
+	x=10,57
+[].[packages]
+	view=0,0
+	zoom=1.000000
+[]
+	Notation=4
+	ShowGrid=1
+	Snap=1
+	font=Arial
+	lod=33
+	tc=323232
+	viewStyle=2
+]]></property></object></namespace></bmtcustomdata>
